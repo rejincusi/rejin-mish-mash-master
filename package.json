@@ -10,7 +10,7 @@
     "test3": "mocha src/3-*.spec.js"
   },
   "devDependencies": {
-    "mocha": "^5.2.0"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "nock": "^10.0.6"
